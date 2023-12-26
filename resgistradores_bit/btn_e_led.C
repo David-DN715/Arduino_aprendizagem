@@ -23,6 +23,7 @@ void setup() {
       bf1 = 0x00;
       //usamos o registrador do pullup para mudar o registrador do led
       //use o PORTD poius é aonde está o led**
+      //^= representa a porta XOR uma "inversora contolada" em eletronica digital.
       PORTD ^= led;
     }//and if
 
