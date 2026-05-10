@@ -66,7 +66,9 @@ Leitura de entradas digitais.
 # 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,vscode"/>
+  <img src="https://skillicons.dev/icons?i=arduino,c,cpp,vscode,git,github"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 </p>
 
 ---
