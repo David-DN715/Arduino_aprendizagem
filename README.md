@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Arduino Aprendizagem</h1>
+<h1 align="center">🚀 embedded-learning</h1>
 
 <p align="center">
   Repositório dedicado aos meus estudos com Arduino, ESP32 e sistemas embarcados.
